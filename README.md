@@ -8,4 +8,5 @@ A variety of projects used as examples to learn different programming languages
 - **JavaScript**
   - [basic](JavaScript/basic.html)
   - [number-guessing-game](JavaScript/number-guessing-game.html)
+  - [objects](JavaScript/objects.html)
   - [search-contacts](JavaScript/search-contacts.html)
